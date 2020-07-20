@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Alex LEWIS. You can contact me through these platforms:
+[Weibo](https://weibo.com/forerunner), 
+[Twitter](https://twitter.com/forerunner), 
+[Blog](https://alexinea.com), 
+[Douban](https://www.douban.com/people/forerunner/), 
+[Bangumi](https://bangumi.tv/user/forerunner) and
+[Telegram](https://t.me/alexinea)
+
 <!--
 **alexinea/alexinea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
